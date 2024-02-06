@@ -1,0 +1,20 @@
+.first{
+    text-align: center;
+}
+.first h1{
+    font-size: 50px;
+}
+.second{
+    text-align: center;
+    font-size: 18px;
+}
+.third{
+    text-align: center;
+}
+.third h2{
+    font-size: 30px;
+}
+.copy{
+    text-align: left;
+    font-size: 10px;
+}
